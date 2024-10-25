@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Google",
+    "path": "/companies/google_logo-768x461.png",
+    "id": 1
+  },
+  {
+    "name": "Github",
+    "path": "/companies/GitHub-logo.png",
+    "id": 2
+  },
+  {
+    "name": "Instagram",
+    "path": "/companies/Instagram-Logo-768x432.png",
+    "id": 3
+  },
+  {
+    "name": "Samsung",
+    "path": "/companies/samsung-logo-png-768x288.png",
+    "id": 4
+  },
+  {
+    "name": "Microsoft",
+    "path": "/companies/Microsoft-Logo-768x251.png",
+    "id": 5
+  },
+  {
+    "name": "Adobe",
+    "path": "/companies/Logo-Adobe-768x432.png",
+    "id": 6
+  },
+  {
+    "name": "Intel",
+    "path": "/companies/Intel-logo-768x432.png",
+    "id": 7
+  },
+  {
+    "name": "KFC",
+    "path": "/companies/KFC-Logo.jpg",
+    "id": 8
+  },
+  {
+    "name": "McDonalds",
+    "path": "/companies/McDonalds-logo-768x432.png",
+    "id": 9
+  },
+  {
+    "name": "Burger King",
+    "path": "/companies/Burger-King_Logo-768x461.png",
+    "id": 10
+  }
+]
